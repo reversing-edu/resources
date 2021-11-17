@@ -12,6 +12,7 @@
 * [Capstone](http://www.capstone-engine.org/) **(Recommended)**
 * [IDA Pro](https://hex-rays.com/ida-pro/)
 * [CheatEngine](https://www.cheatengine.org/)
+* [ReCLASS](https://github.com/ReClassNET/ReClass.NET)
 
 - ### Assemblers
 * [Keystone](https://github.com/keystone-engine/keystone/)
