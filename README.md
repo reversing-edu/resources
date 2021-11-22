@@ -1,25 +1,32 @@
 # Resources
 
 - ## Bookmarks
+    - [General reverse engineering suite](#general-reverse-engineering-suites) 
+    - [Debuggers](#debuggers)
     - [Disassemblers](#disassemblers)
     - [Assemblers](#assemblers)
-    - [Debuggers](#debuggers)
+    - [Emulators](#emulators)
     - [Bytecode viewers & editors](bytecode-viewers-&-editors)
     - [Bytecode manipulation & analysis libraries](#bytecode-analysis-libraries)
 
-### Disassemblers
+### General reverse engineering suites
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases) **(Recommended)**
-* [Capstone](http://www.capstone-engine.org/) **(Recommended)**
 * [IDA Pro](https://hex-rays.com/ida-pro/)
-* [CheatEngine](https://www.cheatengine.org/)
+* [Binary Ninja](https://binary.ninja/)
+
+### Debuggers
+* [x64dbg](http://x64dbg.com/#start) **(Recommended)**
+* [CheatEngine](https://www.cheatengine.org/) **(Recommended)**
+* [ReCLASS](https://github.com/ReClassNET/ReClass.NET)
+
+### Disassemblers
+* [Capstone](http://www.capstone-engine.org/) **(Recommended)**
 
 ### Assemblers
 * [Keystone](https://github.com/keystone-engine/keystone/)
 
-### Debuggers
-* [x64dbg](http://x64dbg.com/#start)
+### Emulators
 * [unicorn](https://github.com/unicorn-engine/unicorn)
-* [ReCLASS](https://github.com/ReClassNET/ReClass.NET)
 
 ### Bytecode viewers & editors
 * [Recaf](https://github.com/Col-E/Recaf) **(Recommended)**
