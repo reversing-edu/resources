@@ -1,7 +1,7 @@
 # Resources
 
 - ## Bookmarks
-    - [General reverse engineering suite](#general-reverse-engineering-suites) 
+    - [General reverse engineering suites](#general-reverse-engineering-suites) 
     - [Debuggers](#debuggers)
     - [Disassemblers](#disassemblers)
     - [Assemblers](#assemblers)
